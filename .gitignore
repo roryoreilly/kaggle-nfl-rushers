@@ -1,2 +1,5 @@
 ./input
 ./resources
+.DS_*
+.idea/
+.ipynb_checkpoints/
